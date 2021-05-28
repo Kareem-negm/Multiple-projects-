@@ -1,0 +1,4 @@
+mediapipe==0.8.3.1
+pyFirmata==1.1.0
+opencv_python==4.5.1.48
+tensorflow==2.5.0
