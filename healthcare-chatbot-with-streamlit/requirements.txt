@@ -1,5 +1,0 @@
-numpy==1.19.2
-streamlit==0.79.0
-pyttsx3==2.90
-pandas==1.2.0
-scikit_learn==0.24.2
