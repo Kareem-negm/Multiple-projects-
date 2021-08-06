@@ -7,7 +7,7 @@ please if you are interested in one of these projects, let me know, you can cont
 in the following lines I will explain each project one by one 
 
 
- ### 1 : motion detection in real life :
+ ### 1 : [motion detection in real life](https://github.com/Kareem-negm/Multiple-projects-/tree/main/Controlling%20the%20light%20with%20deep%20learning) :
  
  This is a project used to recognize the fingers of the hand to find the number that the hand refers to using the mediapipe library built by the tensorflow core team
 
